@@ -8,7 +8,7 @@ Your task is to complete the `TODO` items found in the source files located in t
 1. Fork this repository.
 2. Go to the `Actions` tab and enable github workflow for your repository by clicking `I understand my ...`
 
-<img src="https://github.com/btrust-builders/rust-week-3-exercises/blob/main/enable-github-actions.png" width="700" />
+<img src="enable-github-actions.png" width="700" />
 
 3. Clone your fork to your local computer.
 4. **Explore the Code**
@@ -35,7 +35,7 @@ Your task is to complete the `TODO` items found in the source files located in t
 
 9. Confirm your forked repository has a green check mark.
 
-<img src="https://github.com/btrust-builders/rust-week-3-exercises/blob/main/success.png" width="300" />
+<img src="success.png" width="300" />
 
 10. Submit your solution to this form: [Google form](https://forms.gle/a3ibaSHcqpaZWsnPA).
 
